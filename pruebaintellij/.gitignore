@@ -1,0 +1,10 @@
+# Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.idea
+*.iml
+\.metadata/
+Servers/
+target/
